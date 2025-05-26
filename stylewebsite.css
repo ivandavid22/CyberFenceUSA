@@ -546,6 +546,12 @@ body {
   background: var(--clr-light);
   color: var(--clr-primary);
 }
+.logo-shield {
+  height: 200px;
+  width: auto;
+  display: block;
+  margin-right: 4rem;
+}
 
 /* Hero */
 .hero {
